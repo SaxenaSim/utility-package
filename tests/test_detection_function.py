@@ -1,6 +1,3 @@
-# import sys
-# import os
-# sys.path.insert(0,os.path.abspath("../data_detection"))
 from data_detection.detection import detect_secrets
 
 
